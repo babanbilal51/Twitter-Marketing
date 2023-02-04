@@ -2,46 +2,60 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Modern Twitter Marketing</title>
+    <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <title>Amazon Affiliate Profits</title>
     <meta name="description" content="">
     <meta name="author" content="">
-    <!-- Mobile Specific Metas -->
+    <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- FONT -->
-    <link href="//fonts.googleapis.com/css?family=Roboto:400,300,600" rel="stylesheet"
+    <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet"
       type="text/css">
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/fontawesome.min.css">
-    <link rel="stylesheet" href="css/custom.css">
+    <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet"
+      type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet"
+      type="text/css">
+    <!-- Inline CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <style type="text/css">
+      a{ color: #fff; }
+    </style>
   </head>
   <body>
-    <!-- Headline Page Layout -->
-    <div style="background-color: #8cd7df;">
+    <!-- Headline Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div style="background-color: #000; border-bottom-width: 8px; border-bottom-color: #ff9900; border-bottom-style: solid">
       <div class="container">
-        <div class="row" style="padding: 0;">
-          <div class="col-md-12" style="padding-top: 2%; padding-bottom: 2%;">
-            <center> <img src="images/logo-light.png" alt="Modern Twitter Marketing"
-                width="200"> </center>
+        <div class="row">
+          <div class="one-column" style="padding-top: 2%; padding-bottom: 2%;">
+            <center> <img src="images/logo.png" alt="" width="300"> </center>
           </div>
         </div>
       </div>
     </div>
-    <!-- End Document -->
-    <!-- Page Layout -->
+    <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <div style="background-color: #fff; padding-top: 3%; padding-bottom: 2%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
-            <h3 align="center"><strong>Privacy Policy</strong></h3>
-            <p>Welcome to [<a href="https://twittergo.netlify.app/" style="color: #66cccc;">https://twittergo.netlify.app/</a>]
-              (the "Site").<br>
+          <div class="one-column">
+            <h3 align="center">Privacy Policy</h3>
+            <p>Welcome to [https://amezon.pages.dev/] (the "Site").<br>
               We understand that privacy online is important to users of our
               Site, especially when conducting business. This statement governs
               our privacy policies with respect to those users of the Site
               ("Visitors") who visit without transacting business and Visitors
               who register to transact business on the Site and make use of the
-              various services offered by [<a href="https://twittergo.netlify.app/">https://twittergo.netlify.app/</a>]
+              various services offered by [https://amezon.pages.dev/]
               (collectively, "Services") ("Authorized Customers").</p>
             <p><br>
               <strong>Personally Identifiable Information</strong><br>
@@ -190,21 +204,24 @@
         </div>
       </div>
     </div>
-    <!-- End Document -->
-    <!-- Footer Layout -->
-    <div style="background-color: #000;">
+    <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Footer Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div style="background-color: #000; padding-top: 2%; padding-bottom: 2%;">
       <div class="container">
-        <div class="row" style="padding: 2% 0;">
-          <div class="col-md-12">
-            <p class="text-center" style=" font-size: 14px; color: #666;margin-bottom: 0px;"><a
-                href="privacy-policy.html" target="_blank">Privacy Policy</a> |
-              <a href="disclaimer.html" target="_blank">Disclaimer</a> | <a href="terms-and-conditions.html"
+        <div class="row">
+          <div class="one-column">
+            <p style=" font-size: 14px; color: #666" align="center"><a href="privacy-policy.html"
+                target="_blank">Privacy Policy</a> | <a href="disclaimer.html"
+                target="_blank">Disclaimer</a> | <a href="terms-and-conditions.html"
                 target="_blank">Terms and Conditions</a> | <a href="support.html"
                 target="_blank">Support</a></p>
           </div>
         </div>
       </div>
     </div>
-    <!-- End Document -->
+    <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   </body>
 </html>
